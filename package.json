@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "Our first node server",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/<github-username>/hello-world",
+  "author": "<your name/identifying info>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/<github-username>/hello-world.git"
+  },
+  "bugs:": "https://github.com/<github-username>/hello-world/issues",
+  "engines": {
+    "node": ">= v4.3.0"
+  },
+  "dependencies": {
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
